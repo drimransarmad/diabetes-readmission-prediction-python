@@ -1,0 +1,10 @@
+finding,result
+Selected model,Gradient boosting with sigmoid probability calibration
+Model-development approach,"Patient-level split, leakage-safe cross-validation, protected test evaluation"
+Strongest predictor,Prior inpatient utilization (number_inpatient)
+Second strongest predictor,Discharge destination (discharge_disposition_id)
+Observed readmission rate with no prior inpatient encounters,8.77%
+Observed readmission rate with four or more prior inpatient encounters,30.92%
+Highest observed discharge-destination risk group,Transferred to rehabilitation facility: 27.84%
+Calibration conclusion,Calibration substantially improved probability accuracy without changing risk ranking
+Interpretation boundary,Predictive associations only; results do not establish causal effects

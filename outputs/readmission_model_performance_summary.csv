@@ -1,0 +1,28 @@
+metric,value
+Eligible development encounters,79655.0
+Eligible protected test encounters,19688.0
+Unique patients in development set,56003.0
+Unique patients in protected test set,13987.0
+Patients shared across development and test sets,0.0
+Protected test-set readmission prevalence,0.109
+Cross-validated ROC-AUC: balanced logistic regression,0.663
+Cross-validated ROC-AUC: random forest,0.67
+Cross-validated ROC-AUC: gradient boosting,0.673
+Protected test-set ROC-AUC: gradient boosting,0.671
+Protected test-set average precision,0.215
+No-skill average-precision benchmark,0.109
+Raw probability Brier score,0.217
+Calibrated probability Brier score,0.093
+Raw probability log loss,0.623
+Calibrated probability log loss,0.325
+Selected calibrated risk threshold,0.125
+Percentage flagged as higher risk,33.025
+Sensitivity at selected threshold,0.547
+Specificity at selected threshold,0.696
+Precision / positive predictive value,0.18
+Negative predictive value,0.927
+Balanced accuracy,0.622
+True positives,1171.0
+False positives,5331.0
+False negatives,968.0
+True negatives,12218.0
