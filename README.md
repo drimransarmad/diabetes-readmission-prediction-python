@@ -1,4 +1,5 @@
 # Predicting 30-Day Hospital Readmission Among Patients With Diabetes
+[View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/diabetes-readmission-prediction-python/blob/main/Diabetes_Readmission_Prediction_Project.ipynb)
 
 ## Project Overview
 
