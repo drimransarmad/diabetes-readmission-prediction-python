@@ -99,6 +99,28 @@ Prior inpatient utilization was the strongest predictor of 30-day readmission ri
 ### Discharge Destination
 
 Discharge destination was the second strongest predictor. Encounters involving rehabilitation or continued institutional care showed higher observed readmission rates than routine discharge to home.
+## Publication-Style Figures
+
+### Readmission Risk by Prior Inpatient Utilization
+
+![Readmission risk by prior inpatient utilization](outputs/readmission_risk_by_prior_inpatient_utilization_with_ci.png)
+
+### Readmission Risk by Discharge Destination
+
+![Readmission risk by discharge destination](outputs/readmission_risk_by_discharge_destination_with_ci.png)
+
+### Predictor Importance
+
+![Readmission predictor importance](outputs/readmission_predictor_importance.png)
+
+### Precision-Recall Curve
+
+![Readmission precision-recall curve](outputs/readmission_precision_recall_curve.png)
+
+### ROC Curve
+
+![Readmission ROC curve](outputs/readmission_roc_curve.png)
+
 
 ## Interpretation Boundary
 
